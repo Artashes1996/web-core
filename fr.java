@@ -1,4 +1,4 @@
 public class fr {
 
-    public void funct() {}
+    public void fqdunct() {}
 }
